@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -37,11 +37,7 @@
 
 ###
 
-<img align="right" height="150" src="https://pouch.jumpshare.com/preview/qPOW2emIUxqhtbgbOOsuMx7RrcrADVjg5fVvE9Xes1LEiri6sUfLUBO2TBcEan2lfs1N3Zv_ACka8jDYR8X-6RA1jQB_zmxltR5bgJ1-nls"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <a href="lakshaygoel911@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
