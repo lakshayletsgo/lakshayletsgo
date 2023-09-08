@@ -1,4 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lakshayletsgo.lakshayletsgo" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lakshay+Goel!;" />
+</h1>
 <h2 align="left">Hi 👋! My name is Lakshay and I'm a student pursuing Btech in Cse.</h2>
 
 ###
