@@ -53,5 +53,6 @@
 ###
 
 <br clear="both">
+![Snake animation](https://github.com/lakshayletsgo/lakshayletsgo/blob/output/github-contribution-grid-snake.svg)
 
 ###
