@@ -52,6 +52,5 @@
 
 ###
 
-<br clear="both"><img src="https://github.com/lakshayletsgo/lakshayletsgo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> 
-
+<br clear="both">
 ###
