@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lakshayletsgo.lakshayletsgo" />
 <h2 align="left">Hi 👋! My name is Lakshay and I'm a student pursuing Btech in Cse.</h2>
 
 ###
