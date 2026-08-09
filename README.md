@@ -1,13 +1,11 @@
 ![MasterHead](https://github.com/lakshayletsgo/lakshayletsgo/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lakshayletsgo.lakshayletsgo" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There! +👋;+I'm+Lakshay+Goel!;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+There!%20+👋;+I%27m+Lakshay+Goel!)](https://git.io/typing-svg)
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" height="200 px"/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshayletsgo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshayletsgo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src=https://github-readme-stats.shion.dev/api?username=lakshayletsgo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lakshayletsgo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=lakshayletsgo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
